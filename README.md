@@ -2,9 +2,10 @@
 
 The code for "D2Dewarp: Dual Dimensions Geometric Representation Learning Based Document Image Dewarping", CVPR 2026.
 
-<!--![model_overview](./images/model1.png "title-1")
-
-![model_overview](./images/model2.png "title-1")-->
+<div align=center>
+<img width="350" height="200" src="https://github.com/xiaomore/D2Dewarp/blob/main/images/model1.png"/>
+<img width="200" height="200" src="https://github.com/xiaomore/D2Dewarp/blob/main/images/model2.png"/>
+</div>
 
 #### Training Dataset
 We propose a training set of distorted images with horizontal and vertical line annotations. 
@@ -71,5 +72,4 @@ If our methods and code are helpful to you, please refer to the following BibTeX
   journal={arXiv preprint arXiv:2507.08492},
   year={2025}
 }
-```
 ```
