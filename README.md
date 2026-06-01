@@ -66,6 +66,14 @@ Thanks to [DocTr](https://github.com/fh2019ustc/DocTr), [DocScanner](https://git
 If our methods and code are helpful to you, please refer to the following BibTeX format for citation:
 
 ```text
+@inproceedings{li2026d2dewarp,
+  title={D2Dewarp: Dual Dimensions Geometric Representation Learning Based Document Image Dewarping},
+  author={Li, Heng and Wu, Xiangping and Chen, Qingcai},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={34734--34744},
+  year={2026}
+}
+
 @article{li2025dual,
   title={Dual Dimensions Geometric Representation Learning Based Document Dewarping},
   author={Li, Heng and Chen, Qingcai and Wu, Xiangping},
