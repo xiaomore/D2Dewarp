@@ -3,8 +3,8 @@
 The code for "D2Dewarp: Dual Dimensions Geometric Representation Learning Based Document Image Dewarping", CVPR 2026.
 
 <div align=center>
-<img width="650" height="350" src="https://github.com/xiaomore/D2Dewarp/blob/main/images/model1.png" alt="Model Overview" title="Model Overview"/>
-<img width="450" height="330" src="https://github.com/xiaomore/D2Dewarp/blob/main/images/model2.png" alt="HV Fusion Module"  title="HV Fusion Module"/>
+<img width="650" height="350" src="https://github.com/xiaomore/D2Dewarp/blob/main/images/model1.jpeg" alt="Model Overview" title="Model Overview"/>
+<img width="450" height="330" src="https://github.com/xiaomore/D2Dewarp/blob/main/images/model2.jpeg" alt="HV Fusion Module"  title="HV Fusion Module"/>
 </div>
 
 #### Training Dataset
