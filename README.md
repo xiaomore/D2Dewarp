@@ -4,7 +4,7 @@ The code for "D2Dewarp: Dual Dimensions Geometric Representation Learning Based 
 
 <div align=center>
 <img width="650" height="350" src="https://github.com/xiaomore/D2Dewarp/blob/main/images/model1.jpeg" alt="Model Overview" title="Model Overview"/>
-<img width="450" height="330" src="https://github.com/xiaomore/D2Dewarp/blob/main/images/model2.jpeg" alt="HV Fusion Module"  title="HV Fusion Module"/>
+<img width="330" height="450" src="https://github.com/xiaomore/D2Dewarp/blob/main/images/model2.jpeg" alt="HV Fusion Module"  title="HV Fusion Module"/>
 </div>
 
 #### Training Dataset
